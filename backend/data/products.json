@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Bluetooth Headphones",
+      "price": 59.99,
+      "description": "High-quality wireless headphones with Bluetooth connectivity.",
+      "ratings": 4.5,
+      "images":[{"image":""},{"image":""}],
+      "category": "Electronics",
+      "seller": "Amazon",
+      "stock": 50
+    },
+    {
+      "name": "Smartwatch",
+      "price": 129.99,
+      "description": "Fitness tracker with heart rate monitor and smartphone connectivity.",
+      "ratings": 4.2,
+      "images":[{"image":""},{"image":""}],
+      "category": "Electronics",
+      "seller": "Best Buy",
+      "stock": 30
+    },
+    {
+      "name": "Laptop",
+      "price": 899.99,
+      "description": "Thin and lightweight laptop with powerful performance.",
+      "ratings": 4.7,
+      "images":[{"image":""},{"image":""}],
+      "category": "Electronics",
+      "seller": "Newegg",
+      "stock": 10
+    },
+    {
+      "name": "Wireless Mouse",
+      "price": 29.99,
+      "description": "Ergonomic mouse with wireless connectivity for improved productivity.",
+      "ratings": 4.0,
+      "images":[{"image":""},{"image":""}],
+      "category": "Electronics",
+      "seller": "Staples",
+      "stock": 40
+    },
+    {
+      "name": "Bluetooth Speaker",
+      "price": 79.99,
+      "description": "Portable speaker with Bluetooth technology for wireless streaming.",
+      "ratings": 4.3,
+      "images":[{"image":""},{"image":""}],
+      "category": "Electronics",
+      "seller": "Target",
+      "stock": 25
+    },
+    {
+      "name": "Digital Camera",
+      "price": 399.99,
+      "description": "High-resolution camera for capturing stunning photographs and videos.",
+      "ratings": 4.6,
+      "images":[{"image":""},{"image":""}],
+      "category": "Electronics",
+      "seller": "Walmart",
+      "stock": 15
+    },
+    {
+      "name": "Gaming Console",
+      "price": 299.99,
+      "description": "Next-gen gaming console with immersive gaming experience.",
+      "ratings": 4.8,
+      "images":[{"image":""},{"image":""}],
+      "category": "Electronics",
+      "seller": "GameStop",
+      "stock": 20
+    }
+  ]
+  
